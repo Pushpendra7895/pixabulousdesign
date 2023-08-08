@@ -1,0 +1,310 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="em_body" style="margin:0px; padding:0px; background-color: #f5f5f5;" contenteditable="true">
+      <table class="layout" bgcolor="#ffffff" style="margin: 0 auto; width: 100%; border:1px solid #999; padding: 0; max-width:647px; background:url(/white.png) #fff;" align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr style="background:#fff;background-image: url(images/layer_2.png);">
+          <td><img src="images/icai-logo-g20-removebg-preview.png" alt="target"></td>
+        </tr>
+        <tr align="center">
+          <td style="background-color:rgba(90, 4, 4, 0.979);"><img src="images/icai_s_events.png" alt="target" style="margin-top: 30px; margin-bottom: 30px;"/></td>
+        </tr>
+        <!-- 1st column-->
+        <tr style="background:#fff;" align="center">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color: rgba(16, 142, 192, 0.863);">
+              <tr>
+                <td align="center" colspan="2"><h2 style="color: #fff;">Risks & Opportunities For CAs in PLMA</h2></td>
+              </tr>
+              <tr> 
+                <td><img src="images/pexels-mikhail-nilov-8296.png" alt="" style="width: 278px; margin-left: 20px;"></td>
+                <td valign="top">
+                 <table>
+                  <tr>
+                    <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                  </tr>
+                  <tr><td bgcolor="red" align="center" align="center"><img src="images/13th_april_2023_4_00_-_6_.png" alt=""></td></tr>
+                  <tr><td align="center"><img src="images/organized_by.png" alt="" style="padding-top:20px;"><br>
+                  <strong style="color: #fff;">Committee on Commercial laws, <br> Economic Advisory & NPO,<br>Cooperative Of ICAI</strong>
+                  </h4></td></tr>
+                 </table>
+                 </td>
+              </tr>
+              <tr height="100px">
+                <td align="center" colspan="2">
+                  <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                      <h2>Click for Details</h2>
+                  </button>
+                </td>
+              </tr>
+            </table>
+          </td> 
+         </tr>
+        <!-- 2nd Column -->
+         <tr style="background:#fff;" align="center">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:rgba(131, 42, 101, 0.938);">
+              <tr>
+                <td align="center" colspan="2"><h2 style="color: #fff;">Adavnced Excel & Data Dashboard, Noida</h2></td>
+              </tr>
+              <tr> 
+                <td valign="top">
+                 <table style="margin-left: 10px;">
+                  <tr>
+                    <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                  </tr>
+                  <tr><td bgcolor="red" align="center"><img src="images/14-16_april_2023_10_00_am.png" alt="" ></td></tr>
+                  <tr><td align="center"><img src="images/organized_by.png" alt="" style="padding-top:20px;"><br>
+                 <h3><strong style="color: #fff;">Digital Accounting & Assurance Board of  ICAI</strong>
+                  </h3>
+                </td>
+              </tr>
+                 </table>
+                 </td>
+                 <td><img src="images/closeup-hands-using-compu.png" alt="" style="width: 278px; margin-right: 20px;"></td>
+              </tr>
+              <tr height="100px">
+                <td align="center" colspan="2">
+                  <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                      <h2>Click for Details</h2>
+                  </button>
+                </td>
+              </tr>
+            </table>
+          </td> 
+         </tr>
+         <!--- 2nd column end -->
+         <!--3rd column-->
+         <tr style="background:#fff;" align="center">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:#f5f5f5;">
+              <tr>
+                <td align="center" colspan="2"><h1>Virtual Program on Audit Trial- issues in <br>
+                Reporting & Implementation
+                </h1></td>
+              </tr>
+              <tr> 
+                <td><img src="images/pexels-leeloo-thefirst-89.png" alt="" style="width: 278px; margin-left: 20px;"></td>
+                <td valign="top">
+                 <table>
+                  <tr>
+                    <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                  </tr>
+                  <tr><td bgcolor="red" align="center"><img src="images/14th_april_2023_4_00_-_6_.png" alt=""></td></tr>
+                  <tr><td align="center"><img src="images/organized_by_4.png" alt="" style="padding-top:20px;color: black;">
+                 <h3><strong>Women and Young Members Excellence <br> Committee</strong>
+                 </h3></td></tr>
+                 </table>
+                 </td>
+              </tr>
+              <tr height="80px">
+                <td align="center" colspan="2">
+                  <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                      <h2>Click for Details</h2>
+                  </button>
+                </td>
+              </tr>
+            </table>
+          </td> 
+         </tr>
+         <!--3rd end-->
+         <tr style="background:#fff;" align="center">
+          <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:chocolate;">
+              <tr>
+                <td align="center" colspan="2"><h1 style="color: #fff;">Adavnced Excel & Data Dashboard, Hyderabad</h1></td>
+              </tr>
+              <tr> 
+                <td valign="top">
+                 <table style="margin-left: 10px;">
+                  <tr>
+                    <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                  </tr>
+                  <tr><td bgcolor="black" align="center"><img src="images/14-16_april_2023_10_00_am.png" alt="" ></td></tr>
+                  <tr><td align="center"><img src="images/organized_by.png" alt="" style="padding-top:20px;"><br>
+                 <h3><strong style="color: #fff;">Digital Accounting & Assurance Board of  ICAI</strong>
+                  </h3>
+                </td>
+              </tr>
+                 </table>
+                 </td>
+                 <td><img src="images/layer_6.jpg" alt="" style="width: 270px; margin-right: 20px;"></td>
+              </tr>
+              <tr height="80px">
+                <td align="center" colspan="2">
+                  <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                      <h2>Click for Details</h2>
+                  </button>
+                </td>
+              </tr>
+            </table>
+          </td> 
+         </tr>
+         <!--4 end-->
+          <!--5 start-->
+          <tr style="background:#fff;" align="center">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:rgb(26, 133, 175);">
+                <tr>
+                  <td align="center" colspan="2"><h1 style="color: #fff;">One Day Training for Peer Reviewers, <br> Chengalpattu
+                  </h1></td>
+                </tr>
+                <tr> 
+                  <td><img src="images/layer_7.jpg" alt="" style="width: 278px; margin-left: 20px;"></td>
+                  <td valign="top">
+                   <table>
+                    <tr>
+                      <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                    </tr>
+                    <tr><td bgcolor="red"><img src="images/22nd_april_2023_9_am_-_6_.png" alt="" width="300px"></td></tr>
+                    <tr><td align="center"><img src="images/organized_by_copy.png" alt="" style="padding-top:20px; color: #fff;">
+                   <h3><strong style="color: #fff;">Peer Review Board and hosted by <br>Chengalpattu Branch of SIRC of ICAI</strong>
+                   </h3></td></tr>
+                   </table>
+                   </td>
+                </tr>
+                <tr height="70px">
+                  <td align="center" colspan="2">
+                    <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                        <h2>Click for Details</h2>
+                    </button>
+                  </td>
+                </tr>
+              </table>
+            </td> 
+           </tr>
+          <!--5 end-->
+          <!--6th start-->
+          <tr style="background:#fff;" align="center">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:purple;">
+                <tr>
+                  <td align="center" colspan="2"><h2 style="color: #fff;">Launch of 'Certificate Courses on India Accounting<br>Standard</h2>
+                  </td>
+                </tr>
+                <tr> 
+                  <td valign="top">
+                   <table style="margin-left: 10px;">
+                    <tr>
+                      <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                    </tr>
+                    <tr><td align="center"><img src="images/29th_april_2023.png" alt="" style="background-color: black; width: 150;padding: 10px;"></td></tr>
+                    <tr><td align="center"><img src="images/organized_by.png" alt="" style="padding-top:20px;">
+                   <h3><strong style="color: #fff;">Accounting Standard Board(ASB)</strong>
+                    </h3>
+                  </td>
+                </tr>
+                   </table>
+                   </td>
+                   <td><img src="images/layer_4.png" alt="" style="width: 270px; margin-right: 20px;"></td>
+                </tr>
+                <tr height="80px">
+                  <td align="center" colspan="2">
+                    <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                        <h2>Click for Details</h2>
+                    </button>
+                  </td>
+                </tr>
+              </table>
+            </td> 
+           </tr>
+          <!--6th end-->
+          <tr style="background:#fff;" align="center">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:rgba(210, 105, 30, 0.603);">
+                <tr>
+                  <td align="center" colspan="2">
+                    <h2 style="color: #fff;">Launch of 'Certificate Course on Indian Accounting <br>Standards(Ind AS)'</h2></td>
+                </tr>
+                <tr> 
+                  <td><img src="images/layer_8.jpg" alt="" style="width: 278px; margin-left: 20px;"></td>
+                  <td valign="top">
+                   <table>
+                    <tr>
+                      <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                    </tr>
+                    <tr><td align="center"> <img src="images/13th_may_2023.png" alt="" width="120px" style="background-color:rgb(71, 34, 7);padding: 10px;"></td></tr>
+                    <tr><td align="center"><img src="images/organized_by_copy.png" alt="" style="padding-top:20px; color: #fff;">
+                   <h3><strong style="color: #fff;">Accounting Standard Board(ASB)</strong>
+                   </h3></td></tr>
+                   </table>
+                   </td>
+                </tr>
+                <tr height="70px">
+                  <td align="center" colspan="2">
+                    <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                        <h2>Click for Details</h2>
+                    </button>
+                  </td>
+                </tr>
+              </table>
+            </td> 
+           </tr>
+           <!--7th end-->
+           <!--8th start-->
+           <tr style="background:#fff;" align="center">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:rgb(9, 77, 104);">
+                <tr>
+                  <td align="center" colspan="2"><h2 style="color: #fff;">Launch of 'Certificate Courses on India Accounting<br>Standard</h2>
+                  </td>
+                </tr>
+                <tr> 
+                  <td valign="top">
+                   <table style="margin-left: 10px;">
+                    <tr>
+                      <td align="center"><img src="images/schedule_copy_7.png" alt=""></td>
+                    </tr>
+                    <tr><td align="center"><img src="images/13th_may_2023.png" alt="" style="background-color: rgb(114, 6, 6); width: 150;padding: 10px;"></td></tr>
+                    <tr><td align="center"><img src="images/organized_by_copy.png" alt="" style="padding-top:20px;">
+                   <h3><strong style="color: #fff;">Accounting Standard Board(ASB)</strong>
+                    </h3>
+                  </td>
+                </tr>
+                   </table>
+                   </td>
+                   <td><img src="images/layer_5.jpg" alt="" style="width: 270px; margin-right: 20px;"></td>
+                </tr>
+                <tr height="80px">
+                  <td align="center" colspan="2">
+                    <button style="border: 1px solid black; background-color: blue;color: #f5f5f5;border-radius: 50px;padding:0 50px;">
+                        <h2>Click for Details</h2>
+                    </button>
+                  </td>
+                </tr>
+              </table>
+            </td> 
+           </tr>
+           <!--8th end-->
+           <tr style="background:#fff;" align="center">
+            <td>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="container" style="background-color:rgb(19, 47, 207);">
+                <tr>
+                  <td align="center">
+                    <img src="images/linkedin.png" alt="">
+                 
+                    <img src="images/telegram.png" alt="">
+                 
+                    <img src="images/youtube.png" alt="">
+                  
+                    <img src="images/koo.png" alt="">
+                 
+                    <img src="images/instagram.png" alt="">
+                
+                    <img src="images/facebook.png" alt="">
+                  </td>
+                  <td>
+                    <h4 style="color: #fff;">Visit: www.icai.org</h4>
+                  </td>
+                </tr>
+              </table>
+            </td> 
+           </tr>
+      </table>
+</body>
+</html>
